@@ -23,5 +23,7 @@
 
 ## Contact
    For more information about the project, or to know more about the creator, send an email to this address: example@gmail.com
-    
+ 
+ ## Link
+ https://github.com/Sofiacrf/NewsTimes
      
